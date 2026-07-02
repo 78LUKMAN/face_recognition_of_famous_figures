@@ -1,6 +1,6 @@
 # Face Recognition of Famous Figures
 
-## Run on Windows :
+## Setup :
 ### Create Python Environment
 > make sure that python v3.12 has installed on your system, check the version with ``python --version``
 
